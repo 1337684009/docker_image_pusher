@@ -1,5 +1,4 @@
 #支持私库
-nginx
-arm64v8/mysql:8.0
+mysql:8.2.0-arm64v8
 #支持指定架构
 ##--platform linux/arm64 cooderl/wewe-rss-sqlite:latest
